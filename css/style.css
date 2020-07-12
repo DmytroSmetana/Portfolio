@@ -464,7 +464,6 @@ header{
     line-height: 150%;
     opacity: 0.8;
     margin-top: 0;
-
 }
 .tech{
     display: grid;
@@ -531,7 +530,6 @@ header{
     padding-top: 33px;
     padding-bottom: 61px;
     height: 263px;
-
 }
 .tarif-title{
     font-size: 28px;
@@ -581,7 +579,6 @@ header{
     position: relative;
     padding-left: 30px;
     margin-bottom: 10px;
-
 }
 .tarif-list-item::before{
     content: "";
@@ -622,6 +619,7 @@ header{
     text-transform: uppercase;
     border-bottom: 1px solid #F3F2F0;
     line-height: 150%;
+    position: relative;
 }
 .form-description {
     font-size: 28px;
